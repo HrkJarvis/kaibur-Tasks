@@ -45,7 +45,7 @@ Update the Objects by id
 # Update an existing Object by id
 ![Screenshot (327)](https://user-images.githubusercontent.com/66898452/228533922-7c6acd4b-c955-4e69-a489-044f05a56eb0.png)
 
-#Delete an existing Object by id
+# Delete an existing Object by id
 ![Screenshot (328)](https://user-images.githubusercontent.com/66898452/228534064-dd28dee2-53bf-4076-9d1e-e9d1a47a2dc1.png)
 
 # MongoDB server is running locally
