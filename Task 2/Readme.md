@@ -50,6 +50,9 @@ search objects by name
 ![Screenshot (345)](https://user-images.githubusercontent.com/66898452/228610247-67dc2be5-4e0b-4998-960c-535e56572059.png)
 
 
+# MongoDB server is running locally
+![image](https://user-images.githubusercontent.com/66898452/228612503-4dd47f82-41ae-424e-b1db-5d0ad4dd68a5.png)
+![image](https://user-images.githubusercontent.com/66898452/228612520-588fb6db-70a9-48b9-9f98-4c67053bdca6.png)
 
 
 
