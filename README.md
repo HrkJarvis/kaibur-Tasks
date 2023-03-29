@@ -15,15 +15,21 @@ A Simple Backend Application is Designed with help of SpringBoot and MongoDB
 1.Java JDK 8 or higher
 
 2.IDE for Running SpringBoot Application eg. Spring Tool Suit 4
+
 3.MongoDB Compass
+
 4.Postman
 PORT : 8080 is use for running the Application
 
 # Working of Application
 create an object
+
 fetching all stored objects in MongoDB
+
 delete an object by id
+
 search objects by name
+
 Update the Objects by id
 
 # Add an object or "Server" object name:
